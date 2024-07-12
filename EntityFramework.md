@@ -1,4 +1,4 @@
-Sure! Here’s a comprehensive list of Entity Framework commands formatted for a README.md file.
+
 
 ```markdown
 # Entity Framework Commands
