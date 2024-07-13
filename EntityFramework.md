@@ -82,4 +82,3 @@ This document provides a complete list of commands used in Entity Framework Core
 This project is licensed under the MIT License.
 ```
 
-Feel free to modify this as needed!
