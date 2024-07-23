@@ -1,4 +1,3 @@
-
 # Angular CLI Command List
 
 This document provides a complete list of commands used in Angular CLI.
