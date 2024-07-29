@@ -1,5 +1,3 @@
-
-
 ```markdown
 # Entity Framework Commands
 
