@@ -1,4 +1,3 @@
-
 # Azure Command List
 
 This document provides a complete list of common Azure commands used with Azure CLI.
